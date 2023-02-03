@@ -1,4 +1,4 @@
-module github.com/BigChuiWang/chacha20/chacha20
+module github.com/baishuijianjia/chacha20
 
 go 1.12
 

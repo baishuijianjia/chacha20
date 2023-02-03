@@ -22,9 +22,9 @@ import (
 	"errors"
 	"math"
 
-	"github.com/BigChuiWang/chacha20/internal/api"
-	"github.com/BigChuiWang/chacha20/internal/hardware"
-	"github.com/BigChuiWang/chacha20/internal/ref"
+	"github.com/baishuijianjia/chacha20/internal/api"
+	"github.com/baishuijianjia/chacha20/internal/hardware"
+	"github.com/baishuijianjia/chacha20/internal/ref"
 )
 
 const (
